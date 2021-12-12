@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syaycili&label=Profile%20views&color=0e75b6&style=flat" alt="syaycili" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syaycili" alt="syaycili" /></a> </p>
-
 - 🌱 I’m currently learning **React, Vue.js**
 
 - 👨‍💻 All of my projects are available at [syaycili.github.io](syaycili.github.io)
